@@ -1,0 +1,58 @@
+Dentro de la industria de la inteligencia artificial hay una empresa que está dando
+mucho de qué hablar.
+¿Sabéis qué es OpenAI y cómo quiere cambiar el mundo?
+Os lo contamos.
+OpenAI es una organización centrada en la investigación y desarrollo de la inteligencia
+artificial.
+Esto también lo hacen empresas como Google, Apple y DM y otras otras compañías tecnológicas.
+Pero lo interesante de OpenAI es que es una organización sin ánimo de lucro y con un
+objetivo muy claro, que la evolución de la inteligencia artificial sea beneficiosa
+para toda la humanidad.
+Al igual que ya pasó con otros avances científicos, sobre la inteligencia artificial se ha hablado
+mucho de las consecuencias negativas que podría suponer para los seres humanos.
+La idea de que las máquinas lleguen a ser completamente autónomas y mejores que los
+humanos en algunas tareas nos provoca cierta desconfianza.
+Sin embargo, hay toda una rama de la comunidad científica que defiende los beneficios que
+supondría para la humanidad el desarrollo de esta tecnología.
+Si os interesa os recomendamos este libro de aquí y en esta línea de pensamientos se
+basan los principios con los que se fundó OpenAI en 2015.
+Entre sus fundadores encontramos un nombre bastante conocido por todos y lo más.
+Es curioso porque más se le ha oído decir que la inteligencia artificial sería el desencadenante
+de la Tertera Guerra Mundial y ese título tan catastrofizo salió en múltiples medios.
+Sin embargo, más que forma parte de esa corriente de la que os hablaba antes que entiende el
+peligro de esa tecnología y como solución no proponen prohibirla sino promover su desarrollo
+de forma comunitaria y responsable.
+En vez de impulsar una guerra comercial entre multinacionales o países por ver quién
+tiene la tecnología más poderosa, desde OpenAI se apuesta en teoría por usar el sistema
+OpenSource para que todo el mundo tenga acceso a esta tecnología y nadie la controle en
+detrimento de los demás.
+De este proyecto han surgido avances tan importantes como GPT-3, uno de los modelos
+de procesamiento natural del lenguaje más completos hasta la fecha.
+Esta red neuronal se ha nutrido con hasta 175.000 millones de parámetros, es una de las más
+grandes hasta el momento y gracias a ello puede mantener conversaciones fluidas, escribir
+códigos de programación o utilizar gerga legal como si estuviéramos ante un abogado.
+Por cierto, si os interesa este tema, decidlo en los comentarios para que hagamos un vídeo
+sobre el GPT-3 más adelante.
+Este no es el único proyecto en el que trabaja la organización.
+Desde OpenAI se desarrollan todo tipo de redes modernales para crear música, procesar
+imágenes, también trabajan en robots capaces de manipular objetos como lo haría cualquier
+persona.
+Incluso hemos visto si Inteligencia Artificial ganar en los mejores campeonatos de eSports.
+No obstante, la organización no está exenta de polémica, por un lado, la idea de dar
+libremente el código de todos estos proyectos a todo el mundo y que puedan hacer con ellos
+lo que quieran, ha sustitado algunas críticas.
+Es más, con GPT-3 no ha publicado el código, sino que han creado un API para poder supervisar
+quién y cómo se usa.
+Por otro lado, últimamente se ha puesto en duda la imparcialidad de esta organización
+al firmar un acuerdo de exclusividad con Microsoft.
+Las demás empresas y usuarios seguirán teniendo acceso a la API de GPT-3, pero sólo el gigante
+de Windows tendrá acceso al código de esta renda uronal después de que Microsoft invirtiera
+mil millones de dólares en OpenAI el año pasado.
+En la web os dejamos más información sobre los proyectos de OpenAI y las distintas opiniones
+que han surgido desde dentro de la industria tecnológica y científica sobre esta última
+polémica.
+Pero a vosotros dejadnos un comentario con vuestra opinión sobre el labor que está
+llevando a cabo esta organización y si creéis que es posible crear una inteligencia artificial
+que nos beneficia a todos.
+Nos vemos la semana que viene con otro vídeo.
+¡Adiós!
